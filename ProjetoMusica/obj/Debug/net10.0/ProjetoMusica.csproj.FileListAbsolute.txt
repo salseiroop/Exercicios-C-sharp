@@ -1,0 +1,14 @@
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\bin\Debug\net10.0\ProjetoMusica.exe
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\bin\Debug\net10.0\ProjetoMusica.deps.json
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\bin\Debug\net10.0\ProjetoMusica.runtimeconfig.json
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\bin\Debug\net10.0\ProjetoMusica.dll
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\bin\Debug\net10.0\ProjetoMusica.pdb
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\obj\Debug\net10.0\ProjetoMusica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\obj\Debug\net10.0\ProjetoMusica.AssemblyInfoInputs.cache
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\obj\Debug\net10.0\ProjetoMusica.AssemblyInfo.cs
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\obj\Debug\net10.0\ProjetoMusica.csproj.CoreCompileInputs.cache
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\obj\Debug\net10.0\ProjetoMusica.dll
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\obj\Debug\net10.0\refint\ProjetoMusica.dll
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\obj\Debug\net10.0\ProjetoMusica.pdb
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\obj\Debug\net10.0\ProjetoMusica.genruntimeconfig.cache
+C:\Users\salseiro\source\repos\ProjetoMusica\ProjetoMusica\obj\Debug\net10.0\ref\ProjetoMusica.dll
